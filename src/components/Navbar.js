@@ -30,7 +30,7 @@ export default function Navbar() {
                   <Link to="/search">Search Result</Link>
                 </li>
                 <li>
-                  <Link href="#">Drop Down 1</Link>
+                  <Link to="/business">Business</Link>
                 </li>
                 <li>
                   <Link href="#">Drop Down 2</Link>
